@@ -1,0 +1,11 @@
+Dieser Text enthält Zahlen wie 12 3434,24 aber auch Ziffern wie 1,2,3,4
+
+An verschiedenen Stellen finden sich aber auch DM Beträge
+
+so z.b.
+
+Produkt 1  324234,34 DM
+Produkt 2       0,50 DM
+Produkt 3    -456,99 DM
+
+Weitere Zahlen 23 42 73
